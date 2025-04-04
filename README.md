@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project applies **supervised machine learning** techniques to help farmers select the most suitable crop for their fields based on soil composition. The dataset used for this classification task is sourced from Kaggle, and the project was completed on DataCamp as part of a learning module.
+This project applies **supervised machine learning** techniques to help farmers select the most suitable crop for their fields based on soil composition. The dataset used for this classification task is sourced from [Kaggle](https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset), and the project was completed on DataCamp as part of a learning module.
 
 By analyzing key soil metrics such as nitrogen (N), phosphorus (P), potassium (K), and pH levels, I have developed a multi-class classification model to predict the optimal crop for a given soil sample. Additionally, I have identified the most significant soil feature for predictive accuracy.
 
